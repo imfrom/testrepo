@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/imfrom/testrepo.io.git
+	branch = master
